@@ -1,0 +1,14 @@
+uuid: 4b9f7608-96d2-4a2b-be8e-ab9fce0b642f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - mxbase@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

@@ -1,0 +1,39 @@
+{
+  "sections": {
+    "Primary": [{
+        "name": "$color-ifrc",
+        "hex": "#f5333f"
+      },
+      {
+        "name": "$color-navy",
+        "hex": "#12284c"
+      }
+    ],
+    "Black &amp; White": [{
+        "name": "$color-black",
+        "hex": "#1b2b34"
+      },
+      {
+        "name": "$color-white",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "Grays": [{
+        "name": "$color-gray-dk",
+        "hex": "#252524"
+      },
+      {
+        "name": "$color-gray-mid",
+        "hex": "#363636"
+      },
+      {
+        "name": "$color-gray-lt",
+        "hex": "#ebebeb"
+      },
+      {
+        "name": "$color-gray-xlt",
+        "hex": "#f6f6f6"
+      }
+    ]
+  }
+}
